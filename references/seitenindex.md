@@ -2,6 +2,13 @@
 
 PDF-Seiten sind 1-basiert. Text ist original extrahiert, Symbole/Bildtexte am Original prüfen.
 
+## glossar
+SHA256: 164514cd110154875f5477f5b4dea929f8916b81d2bd5cea6d6c5b7b1b945cb5
+8 PDF-Seiten; vollständige Textextraktion in `references/glossar.md`.
+
+## symbol-uebersicht
+SHA256: 228ba0ae7e5ba135861343f2a98f2b46add56f9c3721d9699ba8a89a28750ded
+2 PDF-Seiten; vollständige Textextraktion in `references/symbol-uebersicht.md`. Seite 2 grafisch angeordnet.
 
 ## regelbuch
 SHA256: 8c136ba8ff3385b0671eedd4e124bd6814e9cc4ddd0178a26d04e971ab732abb
@@ -24,8 +31,13 @@ SHA256: 8c136ba8ff3385b0671eedd4e124bd6814e9cc4ddd0178a26d04e971ab732abb
 - PDF-Seite 17: SPONSOREN                                                                         ..._._ Aufbau der Sponsorenkarten ~ / Spiele genau 1 Sponsorenkarte aus ODER be- / (1) Auf jeder Sponsorenkarte  ist oben links in der Eck
 - PDF-Seite 18: X-MARKER                                   Die Pause / Nimm dir 1 X-Marker.                            Arche Nova folgt keiner festen Rundenstruktur.  lhr führt / reihum jeweils 1 Spielzug aus, bis der Pausenmarker auf d
 - PDF-Seite 19: Beispiel: Einkommen  durch Kioske     Sonderbauwerk, Spezialgehege, belegte Standardge- / hege und jeden angrenzenden Pavillon. Es reicht dabei,     Fürdeine Kioskeerhältst du 4 Geld,jeweils 2 für jeden Kiosk. / wenn ein
-- PDF-Seite 20: •• •• •• •• •rwna• • ••••• SOLOSPIEL rw«va• • • •• •• •r•• •• • / Spielst du Arche Nova alleine, so gelten die folgenden abweichenden Regeln: / Aufbau                                      .,--       Beispiel: Aufbau und 
+- PDF-Seite 20: •• •• •• •• •rwna• • ••••• SOLOSPIEL rw«va• • • •• •• •r•• • / Spielst du Arche Nova alleine, so gelten die folgenden abweichenden Regeln: / Aufbau                                      .,--       Beispiel: Aufbau und
 
+## glossar
+Datei: `assets/glossar-de-22-10.pdf`; 8 PDF-Seiten. Textextraktion: `references/glossar.md`.
+
+## symbol-uebersicht
+Datei: `assets/symbol-uebersicht-de.pdf`; 2 PDF-Seiten. Textextraktion: `references/symbol-uebersicht.md`. Die zweite Seite enthält stark grafisch angeordnete Symbollegenden; bei Unklarheit Originalabbildung ansehen.
 ## quickstart
 SHA256: 9a4391b689a1a0204c4379b8ddd071e15da2ed8483e7cc642de4d620b62100ba
 - PDF-Seite 1: Titel-/Bildseite

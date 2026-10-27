@@ -7,6 +7,8 @@ Deutschsprachiger Skill für Detailfragen zu den Regeln des Brettspiels **Arche 
 - [`SKILL.md`](SKILL.md): Anweisungen für den Agenten.
 - [`assets/regelbuch-de-v2.pdf`](assets/regelbuch-de-v2.pdf): bereitgestelltes deutsches Regelbuch V2, 20 Seiten.
 - [`assets/quickstart-de-v1.pdf`](assets/quickstart-de-v1.pdf): bereitgestellter deutscher Quickstart V1, 12 Seiten.
+- [`assets/glossar-de-22-10.pdf`](assets/glossar-de-22-10.pdf): deutsches Glossar, 8 Seiten.
+- [`assets/symbol-uebersicht-de.pdf`](assets/symbol-uebersicht-de.pdf): Symbolübersicht, 2 Seiten.
 - [`references/`](references/): seitenweise Textextraktionen, Themenindex und Quellenprüfsummen.
 - [`scripts/render_page.py`](scripts/render_page.py): Originalseiten und Bildausschnitte als PNG rendern.
 
@@ -39,7 +41,7 @@ Alternativ in einer eigenen Python-Umgebung `pip install -r requirements.txt` un
 
 Die Original-PDFs wurden vom Nutzer bereitgestellt. Die seitenweisen Textreferenzen sind maschinelle Extraktionen, keine redigierte Regelübersetzung. Spalten, Symbole und Zahlen können fehlerhaft extrahiert sein; im Zweifelsfall ist die Originalseite maßgeblich.
 
-Das Regelbuch hat Vorrang vor der Beispielpartie. Separates Glossar, Symbolübersicht, spätere FAQ und Erweiterungen sind nicht enthalten. Für dort nicht geklärte Karten-/Sonderfälle soll der Agent nach Kartentext oder Foto fragen, statt eine Regel zu erfinden.
+Quellenrangfolge: Regelbuch für Grundregeln, Glossar für ausgewählte Spielkonzepte und Klarstellungen, Symbolübersicht als Nachschlagehilfe; Quickstart dient nur als illustrierte Beispielpartie. Bei Widerspruch gelten laut Glossar Kartentexte vor allgemeinen Regeln. Erweiterungen sind nicht enthalten. Für dort nicht geklärte Karten-/Sonderfälle soll der Agent nach Kartentext oder Foto fragen, statt eine Regel zu erfinden.
 
 ## Rechte
 

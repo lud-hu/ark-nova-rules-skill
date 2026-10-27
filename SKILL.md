@@ -21,11 +21,13 @@ Für Regelfragen, Zugprüfungen, Aktionsstärke, Bau- und Gehegeregeln, Tiere, V
 
 - `assets/regelbuch-de-v2.pdf`: Original `AN_Rules_DE_V2_0_Web.pdf`, 20 PDF-Seiten.
 - `assets/quickstart-de-v1.pdf`: Original `Arche_Nova_QuickStartGuide_V1_DE_Web_low.pdf`, 12 PDF-Seiten; illustrierte Beispielpartie.
-- `references/regelbuch.md`, `references/quickstart.md`: vollständige seitenweise Textextraktionen.
+- `assets/glossar-de-22-10.pdf`: vom Nutzer bereitgestelltes deutsches Arche-Nova-Glossar (8 PDF-Seiten).
+- `assets/symbol-uebersicht-de.pdf`: vom Nutzer bereitgestellte Symbolübersicht (2 PDF-Seiten).
+- `references/regelbuch.md`, `references/quickstart.md`, `references/glossar.md`, `references/symbol-uebersicht.md`: seitenweise Textextraktionen; bei Symbolen/Layout und unklarer Extraktion Original-PDF visuell prüfen.
 - `references/themenindex.md`: kompakter Themenwegweiser.
 - `references/seitenindex.md`: seitenweise Extraktionsübersicht und Prüfsummen.
 
-Regelbuch vor Quickstart: Eine Beispielpartie begründet keine neue allgemeine Regel. Erweiterungen, separates Glossar, Symbolübersicht und spätere FAQ sind nicht mitgeliefert. Bei nicht geklärten Karten-/Sonderfällen Kartentext oder Foto erfragen. Zusätzliche offizielle Quellen bei Bedarf recherchieren und ausdrücklich kennzeichnen. Community-Auslegung nicht als offizielle Regel ausgeben.
+Quellenrangfolge: Regelbuch für Grundregeln, Glossar für ausgewählte Spielkonzepte und Klarstellungen, Symbolübersicht als Nachschlagehilfe; Quickstart dient nur als illustrierte Beispielpartie. Eine Beispielpartie begründet keine neue allgemeine Regel. Bei Widerspruch gelten laut Glossar Kartentexte vor allgemeinen Regeln. Bei ungeklärten Karten-/Sonderfällen Kartentext oder Foto erfragen. Spätere FAQ bei Bedarf recherchieren und als zusätzliche offizielle Quelle kennzeichnen. Community-Auslegung nicht als offizielle Regel ausgeben.
 
 ## Regelfragen beantworten
 

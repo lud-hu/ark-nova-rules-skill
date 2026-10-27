@@ -30,3 +30,14 @@ Alle Angaben sind 1-basierte PDF-Seiten. Gedruckte Seitenzahlen bei Bedarf am Or
 - Pause, Einkommen, Abwerfen und Auffüllen der Auslage: 11–12.
 
 Quickstart-Seiten enthalten mehrere miteinander verknüpfte Züge. Vor Verwendung eines Ausschnitts die ganze Seite und ggf. vorhergehenden Spielzustand prüfen.
+
+# Glossar – ausgewählte Konzepte und Klarstellungen
+
+- Allgemeine Karteneffekte, Symbole, Reihenfolge und doppelte Symbole: 1.
+- Tierfähigkeiten (alphabetisch, u. a. Gift, Würgen, Hypnose, Stibitzen, Doppler): 2–4.
+- Kartenklärungen nach Kartennummer: 4–7.
+- Endwertungskarten und fortgeschrittene Zoopläne: 8.
+
+# Symbolübersicht
+
+- Symbollegenden, Aktionskarten, Bonus- und Fähigkeitssymbole: 1–2; grafische Referenz, Original-PDF bei Bedarf ansehen.
